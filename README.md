@@ -1,4 +1,4 @@
-# Public_Projects
+# Data Science, Quantitative Methods and Business Analytics Portfolio
 Completed projects and tutorials.
 The projects will be from several sources including: 
 
